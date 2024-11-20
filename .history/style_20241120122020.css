@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+body{
+    background-color: #43a047;
+}
+
+.wrapper{
+    background-color: white;
+    width: 80vmin;
+    position: absolute;
+    transform: translate(-50%);
+
+}
